@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on R and SQL projects of any kind
 - 📫 You can reach me on here through PM
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: In home to purse my Master's degree in the next 2 years. 
+- ⚡ Fun fact: I'm hoping to purse my Master's degree in the next 2 years; I am a recent graduate from the University of Florida
 
 <!---
 jadegoodwin/jadegoodwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
