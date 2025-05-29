@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I'm hoping to purse my Master's degree in the next 2 years; I am a recent graduate from the University of Florida
 
 <!---
-jadegoodwin/jadegoodwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jadegoodwin/analyst.portfolio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
